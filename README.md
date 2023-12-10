@@ -1,6 +1,12 @@
 # Repositório Mentoria 3.0 Canal da Cloud DevOps Team04
 
-Integrantes:
+# Projeto AutoStream
+
+Bem-vindo ao repositório do projeto AutoStream do time vencedor da terceira edição do Programa de Mentoria do [Canal da Cloud](https://www.youtube.com/@CanaldaCloud) na trilha DevOps! 
+
+Este repositório visa disponibilizar o trabalho realizado à comunidade durante um período de 3 meses que foi apresentado no dia 30/11/2023.
+
+## **Integrantes:**
 
 @JEFFERSON-FERREIRA-LIMA (Mentorado)
 
@@ -9,13 +15,6 @@ Integrantes:
 @rafaelmaferreira (Mentor)
 
 @JardelJga (Apoiador)
-
-
-# Projeto AutoStream
-
-Bem-vindo ao repositório do projeto AutoStream do time vencedor da terceira edição do Programa de Mentoria do [Canal da Cloud](https://www.youtube.com/@CanaldaCloud) na trilha DevOps! 
-
-Este repositório visa disponibilizar o trabalho realizado à comunidade durante um período de 3 meses que foi apresentado no dia 30/11/2023.
 
 ## Objetivo
 O intuito deste desafio é criar uma proposta de uma solução Cloud Native robusta e agnóstica para a análise em tempo real de dados de veículos IoT para uma empresa chamada Abstergo Data que é uma iniciativa voltada para o desenvolvimento e implementação de soluções avançadas de tecnologia, especialmente em nuvem e práticas DevOps em um cenário de auditoria. 
