@@ -37,7 +37,7 @@ Seu principal objetivo é criar uma infraestrutura sólida e eficiente para supo
 **OBS:** *Com isso, para o acesso aos links abaixo e fazer uma tour no projeto, será necessário ter uma conta da [Atlassian](https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect) e abrir uma [issue](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/issues) com o e-mail desejado para acesso.*
 
 ## Documentação
-- Toda nossa Documentação formatada encontra-se disponível no Confluence na pasta **Docs**
+- Toda nossa Documentação formatada encontra-se disponível no Confluence na pasta **[Docs](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/tree/main/Docs)**
 - Para detalhes mais aprofundados sobre como o Plano do projeto, SOW, Solution Design, Requisitos e arquitetura no Confluence e no Jira, acesse:
 
 [Projeto no Confluence](https://time-4-devops-canal-da-cloud.atlassian.net/wiki/spaces/AutoStream/pages)
