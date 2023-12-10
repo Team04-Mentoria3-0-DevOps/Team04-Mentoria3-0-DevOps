@@ -41,6 +41,8 @@ Seu principal objetivo é criar uma infraestrutura sólida e eficiente para supo
 - Para detalhes mais aprofundados sobre como o Plano do projeto, SOW, Solution Design, Requisitos e arquitetura no Confluence e no Jira, acesse:
 
 [Projeto no Confluence](https://time-4-devops-canal-da-cloud.atlassian.net/wiki/spaces/AutoStream/pages)
+![image](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/assets/82011917/ac1c293f-0a4a-481b-a8d6-364faa34ecf9)
+
 
 ## Jira
 
@@ -48,11 +50,23 @@ Confira o timeline do projeto, tarefas, backlog, métricas no dashboard e os qua
 
 [Timeline](https://time-4-devops-canal-da-cloud.atlassian.net/jira/software/projects/AUT/boards/1/timeline)
 
+![image](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/assets/82011917/238881d4-34b5-4cd8-8221-4476a503907a)
+
+
 [Backlog](https://time-4-devops-canal-da-cloud.atlassian.net/jira/software/projects/AUT/boards/1/backlog)
+
+![image](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/assets/82011917/cf7c1586-e818-4490-a811-56f450840380)
+
 
 [Dashboard Jira](https://time-4-devops-canal-da-cloud.atlassian.net/jira/dashboards/10000)
 
+![image](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/assets/82011917/98ab6ef2-ed70-4061-8dcd-35a5774425b0)
+
+
 [Sprint Kanban](https://time-4-devops-canal-da-cloud.atlassian.net/jira/software/projects/AUT/boards/1)
+
+![image](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/assets/82011917/53407bdf-2a6b-45ce-9391-4f2e4b3ed0ba)
+
 
 ## Repositórios no GitLab
 
