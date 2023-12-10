@@ -34,7 +34,7 @@ Seu principal objetivo é criar uma infraestrutura sólida e eficiente para supo
 
 - Para estruturarmos este projeto, utilizamos os recursos da camada free do Jira e do Confluence. *(Mais detalhes em: [https://www.atlassian.com/software/confluence/pricing](https://www.atlassian.com/software/confluence/pricing) e [https://www.atlassian.com/br/software/jira/service-management/pricing](https://www.atlassian.com/br/software/jira/service-management/pricing))*
 
-**OBS:** *Com isso, para o acesso aos links abaixo e fazer uma tour no projeto, será necessário ter uma conta da [Atlassian](https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect) e abrir uma [issue](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/issues) com o e-mail desejado para acesso.*
+**OBS:** *Com isso, caso deseje o acesso na íntegra aos links abaixo e fazer uma tour no projeto, será necessário ter uma conta da [Atlassian](https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect) e abrir uma [issue](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/issues) com o e-mail desejado para acesso.*
 
 ## Documentação
 - Toda nossa Documentação formatada encontra-se disponível no Confluence na pasta **[Docs](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/tree/main/Docs)**
