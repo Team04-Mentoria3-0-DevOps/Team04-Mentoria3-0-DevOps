@@ -37,7 +37,7 @@ Seu principal objetivo é criar uma infraestrutura sólida e eficiente para supo
 
 ## Documentação
 - Toda nossa Documentação formatada encontra-se disponível no Confluence na pasta **[Docs](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/tree/main/Docs)**
-- Para detalhes mais aprofundados sobre como o Plano do projeto, SOW, Solution Design, Requisitos e arquitetura no Confluence e no Jira, acesse:
+- Para detalhes mais aprofundados sobre o Plano do projeto, SOW, Solution Design, Requisitos e arquitetura no Confluence e no Jira, acesse:
 
 [Projeto no Confluence](https://time-4-devops-canal-da-cloud.atlassian.net/wiki/spaces/AutoStream/pages)
 ![image](https://github.com/Team04-Mentoria3-0-DevOps/Team04-Mentoria3-0-DevOps/assets/82011917/ac1c293f-0a4a-481b-a8d6-364faa34ecf9)
